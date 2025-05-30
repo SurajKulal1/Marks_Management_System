@@ -139,27 +139,30 @@ http://localhost:8080/markmanagement/
 
 ### 🏠 Home Page
 
-<img src="Screenshot/homepage.png" alt="Home page" width="700"/>
+<img src="Screenshots/frontpage.png" alt="Home page" width="700"/>
 
 ### ➕ Add Marks Page
 
-<img src="Screenshot/addmark.png" alt="add mark" width="700"/>
+<img src="Screenshots/addmarks.png" alt="add mark" width="700"/>
 
 
 ### 🔍 Update Mark
 
-<img src="Screenshot/updatemark.png" alt="updatemark" width="700"/>
+<img src="Screenshots/updatemark.png" alt="updatemark" width="700"/>
 
 
 ### ❌ Delete Mark
 
-<img src="Screenshot/deletemark.png" alt="delete mark" width="700"/>
+<img src="Screenshots/deletemarks.png" alt="delete mark" width="700"/>
 
 
 ### 🆕 Display Marks
 
-<img src="Screenshot/displaymark.png" alt="display mark" width="700"/>
+<img src="Screenshots/displaymarks.png" alt="display mark" width="700"/>
 
 ### 📊 Generate Report
 
-<img src="Screenshot/generatereport.png" alt="generate report" width="700"/>
+<img src="Screenshots/generate_report.png" alt="generate report" width="700"/>
+
+
+<img src="Screenshots/generate_report1.png" alt="generate report" width="700"/>
